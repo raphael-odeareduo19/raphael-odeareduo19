@@ -12,4 +12,4 @@ Connect with me on [TikTok](https://www.tiktok.com/@ralphe_19)
 Connect with me on [LinkedIn](https://www.linkedin.com/in/raphael-odeareduo-2a87b0350/)
 
 ### Tech I enjoy using
-I currently work with **TailwindCSS, ReactJS, JavaScript, HTML and CSS**
+I currently work with **NEXTJS, ReactJS, Shadcn, TailwindCSS, JavaScript, HTML and CSS**
